@@ -1,0 +1,40 @@
+.myApp {
+  margin: 0 auto;
+  height: 450px;
+  width: 650px;
+  padding: 0;
+  background-color: #FFF;
+  text-align: center;
+  -webkit-filter: drop-shadow(0px 0px 5px #666);
+  filter: drop-shadow(0px 0px 5px #666);
+}
+
+.App input {
+  padding: 10px;
+  font-size: 16px;
+  border: 2px solid #FFF;
+}
+.header button {
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  background-color: #0066FF;
+  color: #FFF;
+  border: 2px solid #0066FF;
+  border-radius: 5px;
+}
+ 
+.myApp .theList li {
+  list-style: none;
+  color: #333;
+  background-color: #A5E9E9;
+  padding: 15px;
+  margin-bottom: 15px;
+  border-radius: 5px;
+}
+
+.theList {
+  list-style: none;
+  padding-left: 0;
+  width: 604px;
+}
